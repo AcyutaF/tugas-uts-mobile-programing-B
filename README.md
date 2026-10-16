@@ -51,8 +51,8 @@ test/
 Prasyarat: Flutter SDK (dikembangkan dengan Flutter 3.47.2 / Dart 3.13.2) dan emulator atau perangkat Android.
 
 ```bash
-git clone <URL-REPOSITORY-INI>
-cd <NAMA-FOLDER>
+git clone https://github.com/AcyutaF/tugas-uts-mobile-programing-B.git
+cd tugas-uts-mobile-programing-B
 flutter pub get
 flutter run
 ```
